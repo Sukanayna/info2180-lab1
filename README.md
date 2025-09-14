@@ -1,2 +1,2 @@
 # info2180-lab1
-This is Lab 1 for Web development. 
+This is Lab 1 for Sukanayna Hoo. 
